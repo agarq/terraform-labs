@@ -1,13 +1,13 @@
-aws_access_key = "AKIA2SX2AKJBEUUSJR6J"
+aws_access_key = ""
 
-aws_secret_key = "5DcTvL9id5y+Vdoe5zdCaDAlAppp+/48P1mm/sCr"
+aws_secret_key = "r"
 
-key_name = "JhonAWSKeyPairs"
+key_name = ""
 
 private_key_path = "C:\\Users\\jhon.velasquez\\Documents\\Terraform\\Terraform-Getting-Started\\Labs\\m3\\JhonAWSKeyPairs.pem"
 
 environment_tag = "jhon"
 
-billing_code_tag = "727447523906"
+billing_code_tag = ""
 
 #bucket_name_prefix = "bktjhon"
