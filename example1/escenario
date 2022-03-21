@@ -1,0 +1,21 @@
+
+
+VPC
+dos subnet, una publica y una privada
+
+en cada subnet una instancia EC2.
+
+en la EC2 privada 
+- le asocio un nat_gateway para salir a internet
+- instalo BD
+
+en la publica 
+- configuro un bastion para acceder a la instancia privada
+- instalo aplicación web
+
+
+
+
+
+
+
